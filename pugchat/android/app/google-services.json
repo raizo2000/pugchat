@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81044812521",
+    "firebase_url": "https://chatpug-180ab.firebaseio.com",
+    "project_id": "chatpug-180ab",
+    "storage_bucket": "chatpug-180ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81044812521:android:44a350cdb0200d220f3678",
+        "android_client_info": {
+          "package_name": "com.teamvindex.pugchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81044812521-6mp6690sbud5u7jqbgbdi9j6lrmvj2bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamvindex.pugchat",
+            "certificate_hash": "dd11606d0ef5a7deab467a305a5f264efb2b8660"
+          }
+        },
+        {
+          "client_id": "81044812521-k0a7go3c658b48dc99oar82efqvfu2g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzS7JcEc8ZzF7BjgZbzrF6KytCbxN9Fic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81044812521-k0a7go3c658b48dc99oar82efqvfu2g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
